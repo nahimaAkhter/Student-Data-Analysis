@@ -1,0 +1,61 @@
+Last Name,First Name,Email Address,"1.What is an expression?
+2.What is a syntax error?
+3.What is PEP8?
+4.What does a linter do?
+5.What is the result of this expression: “*” * 10
+6.What is CPython?
+7.How is CPython different from Jython?
+8.How is CPython different from IronPython?","Q-1: What are the different data types in python? Give Example.
+
+Q-2: What is string? Describes it's Uses 
+
+Q-3: What are the rules of declaring a variable?
+
+Q-4: A twenty two year old Patient in DMC is fighting with Cancer for last three and half an year. Declare all necessary variables for the patient. also print the type of your variables and add a screenshot with your answer.
+
+Q-5: Write an input function which will ask for your Name & date of birth(year only) and will give your age as output.  
+for example: X, you are Y years of old.
+",Buiding a Basic Calculator,Basic Python Contest,NumPy Quiz
+Date,,,"Oct 22, 2022","Oct 27, 2022","Nov 4, 2022","Nov 24, 2022","Nov 28, 2022"
+Points,,,,100.0,15.0,25.0,20.0
+Siddique,Abu Bakkar,bakkarreigns1111@gmail.com,,60.0,,,15.0
+Hossain,Afnan,kmafnan001@gmail.com,,75.0,15.0,,16.0
+Nur,Akibun,akibunnur70731@gmail.com,,60.0,,,16.0
+Nishat,Asaduzzaman,asaduzzamannishat9632@gmail.com,,60.0,,,17.0
+Islam,Ashraful,ashrafbinquayum1997@gmail.com,,85.0,13.0,,18.0
+Majumder,Avik,kghssg56@gmail.com,,45.0,,,
+Hasan,Ehsan,ehsan.dcstat@gmail.com,,50.0,,,17.0
+K.,Jinia,Jiniakamal@gmail.com,,60.0,15.0,,17.0
+Sayeed,Kazi,kazisayeed93@gmail.com,,60.0,15.0,,18.0
+Rahman,Mahabubar,mahbubrng1996@gmail.com,,100.0,,,20.0
+Hassan,Mahedi,mahedihasansonet@gmail.com,,50.0,15.0,,18.0
+Bashar,Md Habibul,mdhabibulbasher125@gmail.com,,70.0,15.0,,14.0
+Ali,Md Neaz,neazali77@gmail.com,,60.0,15.0,,17.0
+Hachan,Md Rakibul,rakibulhachan04@gmail.com,,45.0,15.0,,15.0
+Khan,Md Robin,khanmdrobin409@gmail.com,,45.0,15.0,,15.0
+Siddique,Md. Abu Bokor,mdabubokorsiddique10@gmail.com,,60.0,15.0,,12.0
+Rahman,Md. Naimur,md.naimurrahman369@gmail.com,,50.0,,,16.0
+Chowdhury,Md. Nayeem,nayeem14369chowdhury@gmail.com,,70.0,,,17.0
+pranto,Md. Sazzad Hosen,mdsazzadhosenpranto@gmail.com,,50.0,,,15.0
+Sagor Sarker,Mohammad,mohammadsagor008@gmail.com,,45.0,15.0,,16.0
+Islam,Mohammad Robiul,robiulislam200212@gmail.com,,,,,
+Rezvi,Mostofa Aminur,mostofa.aminur.rezvi@gmail.com,,70.0,,,17.0
+Marma,Mrasathoy,mmrasathoy@gmail.com,,60.0,15.0,,15.0
+Rahman Rifti,Naeemur,rifti0173@gmail.com,,60.0,15.0,,15.0
+Emon,Naemur Rahman,naemur.emon@gmail.com,,45.0,,,16.0
+Hasan,Nahima,nahima.rkn@gmail.com,,65.0,15.0,,17.0
+Uddin NI,Nasim,nasimuddin836@gmail.com,,25.0,15.0,,15.0
+Haque,Nazmul,kabbo858@gmail.com,,35.0,15.0,,15.0
+Hassan,Omith,omith.hassan8@gmail.com,,28.0,15.0,,16.0
+Rana,Rafiul Islam,irafiul802@gmail.com,,87.0,,,17.0
+HASAN,S.M RAKIBUL,sheikh.rakibhasan80@gmail.com,,60.0,15.0,,16.0
+Haider,Salman,salmanhaider4710@gmail.com,,40.0,,,
+Khan,Shahin,shahinkhan121517@gmail.com,,45.0,15.0,,16.0
+fakrul,Sheikh,sheikhfakrul52@gmail.com,,70.0,,,15.0
+Shaduddin,Sk. Md.,skmdshaduddin@gmail.com,,65.0,15.0,,
+Alam,Sofiul,sofiulalam03@gmail.com,,50.0,15.0,,
+Abir,Syed Nazmul Hasan,snhabir1999@gmail.com,,87.0,15.0,,17.0
+musa,ahosanulhaque,ahosanulhaquemusa@gmail.com,,45.0,,,
+islam,jahidul,jahidulislam717273@gmail.com,,60.0,15.0,,14.0
+Datta,karabi,karabidatta98@gmail.com,,60.0,,,15.0
+,sadhin,ttthisisss@gmail.com,,,,,
